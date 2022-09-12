@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="KPD!@M$}D]$(Jh.h~#+v" x="20" y="20"></block><block type="device_forever" id="ltj5c0CEV8jl!F^bg8t." x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="A3Oynl/g5X;yMRDCI;yB"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id=";h1{f=(|v*hv4vYwUNUR"><value name="pause"><shadow type="timePicker" id="*k*L;z%-z/KT*|v=:^l6"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="%/s$n|dY|8K):My%I(mx"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="K]LSL,*HN|${t*ylysXU"><value name="pause"><shadow type="timePicker" id="X=1mfJSwg}Z^3i8|xa_="><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="HV)Mi|*%d:n`ri?z{69i"><field name="i">IconNames.Surprised</field><next><block type="device_pause" id="s#K2K@(3:Iqu;:AJY#5-"><value name="pause"><shadow type="timePicker" id="~X2FS8Xpxm11;%Id[yU]"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
